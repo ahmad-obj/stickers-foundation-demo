@@ -1,0 +1,36 @@
+{
+  "name": "stickers-corporation",
+  "version": "1.1.0",
+  "private": true,
+  "packageManager": "pnpm@11.20.0",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "start": "serve out -l 3000",
+    "preview": "serve out -l 3001",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "test": "tsx --test tests/*.test.ts",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "@phosphor-icons/react": "^2.1.10"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.9.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "16.4.6",
+    "tsx": "^4.20.0",
+    "@playwright/test": "^1.56.0",
+    "@axe-core/playwright": "^4.11.0",
+    "serve": "^14.2.4",
+    "lighthouse": "^13.0.0"
+  }
+}

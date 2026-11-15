@@ -1,0 +1,506 @@
+[
+  {
+    "file": "assets/originals/google-maps/Vinyl_Materials/05-patterned-vinyl-roll-selection.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "sha256": "efb67b9366c1b498c87bb7b8234c7bdd5a1c666552296d47105394423ec505a1"
+  },
+  {
+    "file": "assets/originals/google-maps/Vinyl_Materials/04-solid-color-vinyl-sheet-selection.jpg",
+    "size": [
+      1200,
+      795
+    ],
+    "sha256": "ae633bd0fbb7dab34e7790e7d27a94a7fd02e73fdfe895f2fb2e359534adf9ac"
+  },
+  {
+    "file": "assets/originals/google-maps/Vinyl_Materials/09-marble-effect-vinyl-roll-selection.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "sha256": "baf95c24fc6989fe9776a8adfd479e18a27e713727c50e1a4b122326e5ecf914"
+  },
+  {
+    "file": "assets/originals/google-maps/Interior_Wall_Graphics/07-colorful-world-map-wall-graphic.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "sha256": "7b79201a6a7f8500ae1e175c98647ec062f999c68fc476f2a2f1e324df420d87"
+  },
+  {
+    "file": "assets/originals/google-maps/Interior_Wall_Graphics/02-science-and-technology-wall-graphic.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "sha256": "e752262fc775f1c108ceacc2d339d5067b3f86f49b514f0b33074f784413d3d9"
+  },
+  {
+    "file": "assets/originals/google-maps/Interior_Wall_Graphics/10-focus-motivation-office-wall-lettering.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "sha256": "f86dc72da78824791665b5c995d59c670dead80ad26707eb08e5e55f84278cd6"
+  },
+  {
+    "file": "assets/originals/google-maps/Interior_Wall_Graphics/03-coding-word-cloud-wall-graphic.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "sha256": "50e71374669a41b0337c098a16e02364e1406665a1eaac443e2a13f985d378e5"
+  },
+  {
+    "file": "assets/originals/google-maps/Vehicle_Wrapping/08-scooter-pop-art-vinyl-wrap.jpg",
+    "size": [
+      1200,
+      1600
+    ],
+    "sha256": "097f5d9f9f912c4b648c1f7f1ff0fb0c08bc77e61cbff1d0c876c9afc2edfbc1"
+  },
+  {
+    "file": "assets/originals/google-maps/Brand_Identity/01-stickers-corporation-brand-logo.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "d23b5ecc5569acd5f81b7d241bd7968f34522b49a5945850ec4289918c0aaf9e"
+  },
+  {
+    "file": "assets/originals/google-maps/Signage/06-cheezy-burger-and-shake-cutout-sign.jpg",
+    "size": [
+      3024,
+      4032
+    ],
+    "sha256": "9dfefebacb5e9f3c5902cba6fb29a2079259ab6cf5d57c7bdc11caf7774b8f74"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_016_750x784.jpg",
+    "size": [
+      750,
+      784
+    ],
+    "sha256": "5fa903258a3b4f2ed61e0f419b2e57189f7e72f565c896b6be8f0d7e54d97e1f"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_042_1500x1500.jpg",
+    "size": [
+      1500,
+      1500
+    ],
+    "sha256": "2bf3fe1483a22a2d36b79470ca27f9f6c36b4fbd53aa61c4173f004720927f6b"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_002_2048x1317.jpg",
+    "size": [
+      2048,
+      1317
+    ],
+    "sha256": "7649c41d53237f8a3d4165d16fa0682825f286a317a062657b1f480dac34de5c"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_012_561x561.jpg",
+    "size": [
+      561,
+      561
+    ],
+    "sha256": "c855940fde52b0de2a667b8a9e72f88466d9b28b4b553b20d426443e220435e8"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_043_600x600.jpg",
+    "size": [
+      600,
+      600
+    ],
+    "sha256": "36ddf232bb92670902bead302c6128d0bd8a34082eab428d200718ad0eef525b"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_005_500x500.jpg",
+    "size": [
+      500,
+      500
+    ],
+    "sha256": "fe7952061a857be0a49a98a4d51646902dc096506fa1c37381051249b0c626f6"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_028_640x640.jpg",
+    "size": [
+      640,
+      640
+    ],
+    "sha256": "774b60c7b88a315412d13123011169a04f3c2e42f777922f9ad2431b9a93af35"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_032_1280x1280.jpg",
+    "size": [
+      1280,
+      1280
+    ],
+    "sha256": "07b0b8f606308594a9332067665a90d84b39df9f492b5c661d7c58c53eca7095"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_033_1280x1338.jpg",
+    "size": [
+      1280,
+      1338
+    ],
+    "sha256": "802108af58803380bf65a71938fb4d6832fefb6ae6f5b8519a86cb268f493dcb"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_034_677x677.jpg",
+    "size": [
+      677,
+      677
+    ],
+    "sha256": "0fe4d74d40e11cffe34e4fd12ae52ad7edf32c7e644dcae3ad27afa16518f99b"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_006_1280x1024.jpg",
+    "size": [
+      1280,
+      1024
+    ],
+    "sha256": "aecac3727de2c5a9f19857e3fd7e9477b552d8505465410b107f9aebb46553f2"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_019_750x1000.jpg",
+    "size": [
+      750,
+      1000
+    ],
+    "sha256": "c90832735bae04029fcba592bedd63fc4b4e2bfbcd910dcbdd16e5d1b060841f"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_025_813x850.jpg",
+    "size": [
+      813,
+      850
+    ],
+    "sha256": "94d866073898d1af49c4b471b7e1111f3b60cfe67dae13bf54410394f72c9fbe"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_003_417x646.jpg",
+    "size": [
+      417,
+      646
+    ],
+    "sha256": "3d3babd89348ddb5b931aa9b78e95bae66640bfee1e48d97bcd1607f68eac9c2"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_038_1280x1280.jpg",
+    "size": [
+      1280,
+      1280
+    ],
+    "sha256": "bb09358d393d3bbc7798a2e4447552665f50b54611e10ae4d07971f617e18148"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_039_1034x1080.jpg",
+    "size": [
+      1034,
+      1080
+    ],
+    "sha256": "7964729dba61172b5e2433d382cd489fb44714f3b333473834953c62db420015"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_004_774x1200.jpg",
+    "size": [
+      774,
+      1200
+    ],
+    "sha256": "969f3474cac0392e4bce2e90ed4fdaf994b6ee8367bb42c1f00a7e8bb13449c4"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_010_375x375.jpg",
+    "size": [
+      375,
+      375
+    ],
+    "sha256": "79070e0175a12083c22aa746516c824ea9e3c526c71edf5dd3da836c14387463"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_053_1225x1225.jpg",
+    "size": [
+      1225,
+      1225
+    ],
+    "sha256": "ea15d6db5d8003ccc5c511377ede9f8f537cce8e03e5c051154c8e6985b34f03"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_040_1000x1000.jpg",
+    "size": [
+      1000,
+      1000
+    ],
+    "sha256": "fb85663ec6320a0aa7654c2b7019dde84b66090a36e89d33a76a6232c79cfe11"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_014_623x623.jpg",
+    "size": [
+      623,
+      623
+    ],
+    "sha256": "ede26bdec6f7d94e37ed086f40cfcb620ec7bde872c883eb2bfde98ff989eaaf"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_036_701x701.jpg",
+    "size": [
+      701,
+      701
+    ],
+    "sha256": "d411b050474e65186fe9360aca6e0a119c72095e8292a11b8b7f3a7c5dda0330"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_035_2048x2048.jpg",
+    "size": [
+      2048,
+      2048
+    ],
+    "sha256": "c9405461226618618229a073fac1814d1f06a1cf10cced529ad949cc58bc50a0"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_049_1194x1536.jpg",
+    "size": [
+      1194,
+      1536
+    ],
+    "sha256": "81fa268793079831cc137de1a5c6d1e576473fdbe68293965789395048592331"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_041_2048x1280.jpg",
+    "size": [
+      2048,
+      1280
+    ],
+    "sha256": "73d6213fec20bce61749eb310813bc20e18aa9fb24bca41b632c8afe7855ff06"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_026_752x786.jpg",
+    "size": [
+      752,
+      786
+    ],
+    "sha256": "fa0ad7336d11c905a1b89b563914d76e4e24c2bac3121b30d49e40f90effd828"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_047_2048x800.png",
+    "size": [
+      2048,
+      800
+    ],
+    "sha256": "f52c705ed9fa177560d6d9477d639b85818ec73b07931a890d8ae7e1330c1702"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_001_464x720.jpg",
+    "size": [
+      464,
+      720
+    ],
+    "sha256": "1bf8be5ff72b124344dd3bd49c056ca986585767365b7f24eee57dc653c05c77"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_046_1000x1000.jpg",
+    "size": [
+      1000,
+      1000
+    ],
+    "sha256": "2bf31645740323492aa0de0fa4708000745aeb605c5c21c6bac0eccaca992287"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_018_534x534.jpg",
+    "size": [
+      534,
+      534
+    ],
+    "sha256": "001e043f1b5ff6c398aca00f46e619286c65cc9d72a77cdc5b8801dc48d365b0"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_021_960x720.jpg",
+    "size": [
+      960,
+      720
+    ],
+    "sha256": "1fdbc1028944d1d456d42753b727c031c93b07547948b7b23bd5db08459ea86e"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_013_352x352.jpg",
+    "size": [
+      352,
+      352
+    ],
+    "sha256": "c992f7cae2f8d318cd7da6e5e2e52202b653256840dba173ecb9faae71f03d4a"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_017_576x576.jpg",
+    "size": [
+      576,
+      576
+    ],
+    "sha256": "f0e182acc18ff682d7aab592d9e8fcaae8cb4af230cea99201d3a22f4006af1a"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_048_1158x1210.jpg",
+    "size": [
+      1158,
+      1210
+    ],
+    "sha256": "370a01508e86ea083e7a8004a06f97ac902185688c684e4b4448761019055ff1"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_024_720x720.jpg",
+    "size": [
+      720,
+      720
+    ],
+    "sha256": "6fff5fc7db4882c4ff74be41b5bc808d8f15f500eb1d42f8a5505b0819efca71"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_052_1225x1225.jpg",
+    "size": [
+      1225,
+      1225
+    ],
+    "sha256": "88651361aeb84e13a9a73d10a6b73b196cecd5581a1e52ce95125628d24131ca"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_044_774x1200.jpg",
+    "size": [
+      774,
+      1200
+    ],
+    "sha256": "4f1cf1381c1d59e35a0feecec28730db86c028735d5d35e87e68711c0a9081b9"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_011_388x388.png",
+    "size": [
+      388,
+      388
+    ],
+    "sha256": "b1f9f8c1fd22d7223dbc3b25ebe0fb0a1d095dc867f558c5eb8cff14abc6edcf"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_051_1097x593.jpg",
+    "size": [
+      1097,
+      593
+    ],
+    "sha256": "db6bbe5a7c730e18748a26eb77abf081f88135dcf0d099669633b7dcef5f163f"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_037_900x900.jpg",
+    "size": [
+      900,
+      900
+    ],
+    "sha256": "bee4ae41a5371afd660e2a300e61d2a9e2819839b980bfe124ce19387d30d016"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_022_391x391.jpg",
+    "size": [
+      391,
+      391
+    ],
+    "sha256": "cf72bbb7d69fbb0b996e88b3ff638d77a675506ea4c007adb0b7f63088f50de4"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_023_720x720.jpg",
+    "size": [
+      720,
+      720
+    ],
+    "sha256": "bc3955a86823a5efbc0c77244f4d90ad46269af14a192550a225936775d91769"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_045_1280x1338.jpg",
+    "size": [
+      1280,
+      1338
+    ],
+    "sha256": "ea934d7e859b4acb62f251c27ba0649391f10a6b52d7b17d076c3442bad9b1f8"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_008_500x500.jpg",
+    "size": [
+      500,
+      500
+    ],
+    "sha256": "c205bf5874b06043cec7e04c2b06261e9d010e4b95fbf89c11b8ca2cfa883917"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_027_2048x1280.jpg",
+    "size": [
+      2048,
+      1280
+    ],
+    "sha256": "9c09dc9880a00dbf37ee34129ac894eb0e6e7afcf39b94c957d76e2128e4d659"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_020_598x598.jpg",
+    "size": [
+      598,
+      598
+    ],
+    "sha256": "629a596da1bee7300654294a6b49be9a70c9eab17f73124fc67c85f3d2effcf8"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_030_1100x1100.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "sha256": "4f13df8803998bc597831e60d252defc202082c9ff5998d225238a1739517863"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_015_800x800.png",
+    "size": [
+      800,
+      800
+    ],
+    "sha256": "6be1d1a2769055b02fabdc95a8eaefdc67e9d487e9d76d7abaf719ae9d4c8275"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_007_361x561.jpg",
+    "size": [
+      361,
+      561
+    ],
+    "sha256": "d9943a713960acafef863e947a3897b9660f5c559dd66cb7a69b1caa5c20cd74"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_050_1242x1598.jpg",
+    "size": [
+      1242,
+      1598
+    ],
+    "sha256": "eb13dcc8930f359f8e23fedc8f7028ae8229f2d401e7ad75bbbaba4633c26e69"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_029_479x850.jpg",
+    "size": [
+      479,
+      850
+    ],
+    "sha256": "a993abb19d332534d233a05a3102bdfc0e8e06c58a21cc61d28bbf4ed9db0b58"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_031_432x673.jpg",
+    "size": [
+      432,
+      673
+    ],
+    "sha256": "32389062b0f6ee7f4cc8c01d1de6f83b906523e541c50b03dceba7bd5fe919a8"
+  },
+  {
+    "file": "website-photos.zip/photos/google_site/google_site_009_545x570.jpg",
+    "size": [
+      545,
+      570
+    ],
+    "sha256": "9a9d96c22836a452933e384e377012ec1c6c914f859820c08331fd5793031dc2"
+  }
+]

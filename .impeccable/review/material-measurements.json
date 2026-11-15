@@ -1,0 +1,152 @@
+[
+  {
+    "family": "Solid colours",
+    "width": 1440,
+    "frame": {
+      "x": 60.46875,
+      "y": 572.640625,
+      "width": 770.40625,
+      "height": 430,
+      "top": 572.640625,
+      "right": 830.875,
+      "bottom": 1002.640625,
+      "left": 60.46875
+    },
+    "photo": {
+      "x": 60.46875,
+      "y": 572.640625,
+      "width": 770.40625,
+      "height": 430,
+      "top": 572.640625,
+      "right": 830.875,
+      "bottom": 1002.640625,
+      "left": 60.46875
+    },
+    "objectFit": "contain"
+  },
+  {
+    "family": "Printed patterns",
+    "width": 1440,
+    "frame": {
+      "x": 60.46875,
+      "y": 572.640625,
+      "width": 770.40625,
+      "height": 430,
+      "top": 572.640625,
+      "right": 830.875,
+      "bottom": 1002.640625,
+      "left": 60.46875
+    },
+    "photo": {
+      "x": 60.46875,
+      "y": 572.640625,
+      "width": 770.40625,
+      "height": 430,
+      "top": 572.640625,
+      "right": 830.875,
+      "bottom": 1002.640625,
+      "left": 60.46875
+    },
+    "objectFit": "contain"
+  },
+  {
+    "family": "Marble effect",
+    "width": 1440,
+    "frame": {
+      "x": 60.46875,
+      "y": 572.640625,
+      "width": 770.40625,
+      "height": 430,
+      "top": 572.640625,
+      "right": 830.875,
+      "bottom": 1002.640625,
+      "left": 60.46875
+    },
+    "photo": {
+      "x": 60.46875,
+      "y": 572.640625,
+      "width": 770.40625,
+      "height": 430,
+      "top": 572.640625,
+      "right": 830.875,
+      "bottom": 1002.640625,
+      "left": 60.46875
+    },
+    "objectFit": "contain"
+  },
+  {
+    "family": "Solid colours",
+    "width": 390,
+    "frame": {
+      "x": 22,
+      "y": 272.890625,
+      "width": 346,
+      "height": 310,
+      "top": 272.890625,
+      "right": 368,
+      "bottom": 582.890625,
+      "left": 22
+    },
+    "photo": {
+      "x": 22,
+      "y": 272.890625,
+      "width": 346,
+      "height": 310,
+      "top": 272.890625,
+      "right": 368,
+      "bottom": 582.890625,
+      "left": 22
+    },
+    "objectFit": "contain"
+  },
+  {
+    "family": "Printed patterns",
+    "width": 390,
+    "frame": {
+      "x": 22,
+      "y": 272.890625,
+      "width": 346,
+      "height": 310,
+      "top": 272.890625,
+      "right": 368,
+      "bottom": 582.890625,
+      "left": 22
+    },
+    "photo": {
+      "x": 22,
+      "y": 272.890625,
+      "width": 346,
+      "height": 310,
+      "top": 272.890625,
+      "right": 368,
+      "bottom": 582.890625,
+      "left": 22
+    },
+    "objectFit": "contain"
+  },
+  {
+    "family": "Marble effect",
+    "width": 390,
+    "frame": {
+      "x": 22,
+      "y": 272.890625,
+      "width": 346,
+      "height": 310,
+      "top": 272.890625,
+      "right": 368,
+      "bottom": 582.890625,
+      "left": 22
+    },
+    "photo": {
+      "x": 22,
+      "y": 272.890625,
+      "width": 346,
+      "height": 310,
+      "top": 272.890625,
+      "right": 368,
+      "bottom": 582.890625,
+      "left": 22
+    },
+    "objectFit": "contain"
+  }
+]

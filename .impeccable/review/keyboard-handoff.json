@@ -1,0 +1,13 @@
+{
+  "afterEnter": {
+    "tag": "SELECT",
+    "id": "quote-service",
+    "name": "service",
+    "y": 5488
+  },
+  "afterTab": {
+    "tag": "TEXTAREA",
+    "name": "description",
+    "y": 5488
+  }
+}
